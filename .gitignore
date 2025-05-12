@@ -4,3 +4,4 @@ wandb/
 
 
 codebert_finetuned_csic/
+codebert_finetuned_malicious_urls/
